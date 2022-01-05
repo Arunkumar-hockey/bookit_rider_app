@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119969995256",
+    "project_id": "bookit-rider-app",
+    "storage_bucket": "bookit-rider-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119969995256:android:adbaf5d1d23d9ed8371e0d",
+        "android_client_info": {
+          "package_name": "com.viswatech.bookit_rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119969995256-9gg454ralbg9fl83j9b36gumkg3k8hfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8qEndB2JWhX0Oz3cU058Lc17g-6NDCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119969995256-9gg454ralbg9fl83j9b36gumkg3k8hfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
